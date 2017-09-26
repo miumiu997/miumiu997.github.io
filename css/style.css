@@ -57,26 +57,15 @@ li{
 	margin-bottom: 5px;
 }
 
-.bio{
+.margin{
 	width: 550px;
 	margin-left: 2%; 
 	line-height: 22px; 
 	font-size: 18px;
 }
-
-.education{
-	width: 550px;
-	margin-left: 2%; 
-	line-height: 22px; 
-	font-size: 18px;
-}
-
 
 .work_experience{
-	width: 550px;
-	margin-left: 2%; 
-	line-height: 22px; 
-	font-size: 18px;
+	margin-left: 5%;
 }
 
 
